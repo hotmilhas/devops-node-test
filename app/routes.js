@@ -5,7 +5,6 @@ module.exports = function (app, db) {
     let url = process.env.PHP_HOSTNAME + ':' + process.env.PHP_PORT
 
     app.post('/new', (req, res) => {
-        console.log(req.body);
         fetch(url, {
             method: 'POST',
             body: JSON.stringify(req.body),
