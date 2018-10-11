@@ -13,4 +13,4 @@ Simples aplicação feita em NodeJS para realizar requisições em uma aplicaç�
  
 ## Testes
  
- `comando para rocar teste`
+ `npm test`
