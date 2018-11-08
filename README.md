@@ -2,7 +2,6 @@
 Simples aplicação feita em NodeJS para realizar requisições em uma aplicação feita em PHP.
 
  ## Pré-requisitos
- - Nginx
  - NodeJS 8.10+
 
 ## Instruções
